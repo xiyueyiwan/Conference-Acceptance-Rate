@@ -131,6 +131,9 @@ Statistics of acceptance rate for the main AI conferences
 |ICASSP'17| 52.0% (1220/2518) | - |
 |ICASSP'18| 49.7% (1406/2929) | - |
 |ICASSP'19| 46.5% (1774/3815) | - |
+|CCS'16| 16.5% (137/831) | - |
+|CCS'17| 17.9% (151/843) | - |
+|CCS'18| 16.6% (134/809) | - |
 
 
 Note: For **KDD** and **WWW** (now renamed to **the Web Conference**), only the papers from the research track are counted. For **ICDM**, submissions of short paper and those of long paper are in the same session and the decision of the paper type is made according to its quality.
